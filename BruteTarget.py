@@ -1,12 +1,3 @@
-#!/usr/bin/env python2
-# encoding: utf-8
-"""
-BruteTarget.py
-
-Created by AuthenticXploit on 09/07/2021.
-Copyright (c) 2021 Copyright Holder. All rights reserved.
-"""
-
 # Import module
 try:
     import sys
